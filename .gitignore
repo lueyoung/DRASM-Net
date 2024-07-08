@@ -1,3 +1,17 @@
+*~
+*.swp
+*.pdf
+.DS_Store
+.*.icloud
+*.icloud
+*.doc
+*.docx
+*.pkl
+*.pkl.bak
+nohup.out
+*.exe
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
