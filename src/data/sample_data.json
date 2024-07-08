@@ -1,0 +1,5 @@
+[
+    {"name": "sensor1", "value": 100},
+    {"name": "sensor2", "value": 200},
+    {"name": "sensor3", "value": 300}
+]

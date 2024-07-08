@@ -1,0 +1,23 @@
+{
+    "network": {
+        "protocol": "http",
+        "host": "localhost",
+        "port": 8080
+    },
+    "resource_allocation": {
+        "total_resources": 1000,
+        "alpha": 0.1,
+        "beta": 0.1,
+        "gamma": 0.1,
+        "epsilon": 1e-5,
+        "max_iterations": 100
+    },
+    "stability_analysis": {
+        "epsilon": 1e-5,
+        "alpha": 0.1
+    },
+    "logging": {
+        "log_file": "logs/main.log",
+        "log_level": "DEBUG"
+    }
+}
